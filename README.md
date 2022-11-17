@@ -3,13 +3,10 @@
 - 🌱 I’m currently learning OpenGL, C++, Rust, and embeded software development
 - 📫 You can reach me at Nitishpraks2009@gmail.com
 
-# 🤞 I hope to one day:
-- 📀 Contribute to the Linux kernel
-- ⚽️ Release my own game engine
-- Have Fun! 😁
+My current project is a game engine that I'm working on in my spare time.
 
-# About Me 😃
-I'm 13, and I currently learning computer graphics, embeded software, and I also hope to make my own physics engine. I use MacOS everyday, and I know C++, C#, C(Kind of, I never used C, but C++, and C aren't to different.), and a little bit of Rust. I hope to release my game engine. 
+# About Me
+I have been programming for that last 1-2 years and I use C++ in my projects and also used C# back when I used Unity.
 
 # Thanks for Visiting!
 
