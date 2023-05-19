@@ -1,14 +1,19 @@
 # Introduction
-- 👋 Hi, I’m @AntarticCoder
-- 🌱 I’m currently learning OpenGL, C++, Rust, and embeded software development
-- 📫 You can reach me at Nitishpraks2009@gmail.com
 
-My current project is a game engine that I'm working on in my spare time.
+Hi, I'm currently learning:
 
-# About Me
-I have been programming for that last 1-2 years and I use C++ in my projects and also used C# back when I used Unity.
+* Unreal Engine 5
+* Blender
+* OpenGL and Vulkan
 
-# Thanks for Visiting!
+I also love to play:
+
+* Half life 2
+* Portal 2
+* Apex
+
+
+I'll get around to spicing my profile up someday.
 
 <!---
 AntarticCoder/AntarticCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
