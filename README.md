@@ -1,4 +1,6 @@
 # Introduction
+![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
+
 I'll get around to spicing my profile up someday.
 
 <!---
